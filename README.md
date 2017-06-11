@@ -1,4 +1,4 @@
-# UGYM---Web-App
+# UGYM_Web_App
 
 This is a project created by students from Universidad Fidelitas
 
